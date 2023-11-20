@@ -1,0 +1,3 @@
+Part A - Arduino + Soil Moisture + Water Pump
+Part B - ESP8266 + DHT11 + Buzzer
+Part C - Rasberry Pi + Ultrasonic + Relay

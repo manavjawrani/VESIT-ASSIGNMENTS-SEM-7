@@ -1,0 +1,3 @@
+Part A - MQTT Protocol using AWS IoT Core (Publish and Subscribe)
+Part B - HTTP Protocol using Thingspeak Cloud
+Part C - Web Socket using AWS EC2

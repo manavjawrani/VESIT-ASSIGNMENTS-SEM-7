@@ -1,0 +1,8 @@
+Components -
+1. Arduino UNO Board
+2. ESP8266 Microcontroller
+3. Soil Moisture Sensor
+4. DHT11 Sensor
+5. PIR Sensot
+6. 4 Channel/ 1 Channel Relay
+7. Water Pump
